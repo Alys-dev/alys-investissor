@@ -36,7 +36,7 @@
 </div>
 <br>
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text">
-    <a rel="cc:attributionURL" href="https://avatars3.githubusercontent.com/u/66029789?s=460&u=72a9ffbce919923162cf71dc647458782019080e&v=4"><span rel="dct:title">Alys-Investissor</span></a><br>
+    <a rel="cc:attributionURL" href="https://github.com/Alys-dev/alys-investissor"><span rel="dct:title">Alys-Investissor</span></a><br>
     by <a rel="cc:attributionURL" href="https://github.com/Alys-dev"><span rel="cc:attributionName">Alystarielle</span></a><br>
     <img src="https://avatars3.githubusercontent.com/u/66029789?s=460&u=72a9ffbce919923162cf71dc647458782019080e&v=4" /><br>        
     <br>
