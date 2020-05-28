@@ -30,7 +30,7 @@
     <ul>
       Alys-Investissor ne nécessite pas d'installation pour fonctionner !<br>
       En revanche, pour utiliser Alys-Investissor, ..<br>
-      .. il vous suffira d'ouvrir le fichier Alys-Investissor.html dans votrenavigateur web favori.
+      .. il vous suffira d'ouvrir le fichier Alys-Investissor.html dans votre navigateur web favori.
       (Firefox, Chrome, Vivaldi, EDGE, Brave, etc..)
       <br>
       <br>
