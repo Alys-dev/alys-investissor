@@ -4,7 +4,7 @@
   <h2><u><strong>Français:</strong></u></h2>
 
   C'est un outil d'organisation hors-du-jeu pour le jeu Shop Titans.<br>
-  En jeu, Shop Titans manquent furieusement d'outils de gestion de guilde.<br>
+  En jeu, Shop Titans manque furieusement d'outils de gestion de guilde.<br>
   J'en ai fait le constat: il nous fallait des outils hors-du-jeu pour simplement s'organiser,<br>
   .. et depuis.. ma Guilde DMShop va beaucoup mieux avec une bonne et solide organisation!<br>
   <ul>
